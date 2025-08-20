@@ -250,6 +250,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+  <!--
   # _teaching
   - scope:
       path: ""
@@ -285,7 +286,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  -->
 
 # Sass/SCSS
 sass:
