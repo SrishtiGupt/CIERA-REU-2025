@@ -73,10 +73,3 @@ References
 1. Potential Volcano-Tectonic Origins and Faulting Mechanisms of Three Low-Frequency Marsquakes Detected by a Single InSight Seismometer. Sita, Madelyn; van der Lee, Suzan. In: Journal of Geophysical Research E: Planets, Vol. 127, No. 10, e2022JE007309, 10.2022.
 2. Ping, Ping & Chu, Risheng & Zhang, Yu & Xie, Jun. (2020). Enhancing Signal-to-Noise Ratios of High-Frequency Rayleigh Waves Extracted from Ambient Seismic Noises in Topographic Region. Bulletin of the Seismological Society of America. 110. 10.1785/0120190177.
 3. Kim, Damhee & Lekić, V. & Irving, J. & Schmerr, N. & Knapmeyer-Endrun, Brigitte & Joshi, R. & Panning, Mark & Tauzin, Benoit & Karakostas, Foivos & Maguire, Ross & Huang, Quancheng & Ceylan, Savas & Khan, A. & Giardini, D. & Wieczorek, Mark & Lognonné, Philippe & Banerdt, W.. (2021). Improving Constraints on Planetary Interiors With PPs Receiver Functions. Journal of Geophysical Research: Planets. 126. 10.1029/2021JE006983. <img width="2634" height="32" alt="image" src="https://github.com/user-attachments/assets/2857aa6b-306a-4eb6-ae40-7b5bffa7d9d8" />
-
-
-Contact
-------
-Email: srishti8@illinois.edu
-Linkedin: www.linkedin.com/in/srishti-gupta-18b62124b
-
