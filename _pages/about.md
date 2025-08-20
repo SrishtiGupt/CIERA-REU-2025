@@ -35,10 +35,10 @@ Amplitude measurements for marsquake S1133c are listed below and plots of the L,
 <img width="629" height="205" alt="l_paper" src="https://github.com/user-attachments/assets/d2548619-6018-4f39-ad0d-27a00fb36996" /><br>
 <img width="635" height="331" alt="qt_paper" src="https://github.com/user-attachments/assets/92ec88c9-d41e-4cfb-9196-6aa297076fe5" /><br>
 Caption: Figure 4. Plots of the L, Q, and T components. The L component (top) is shown around the arrival of the P-wave. The Q and T components (bottom) are shown around the arrival of the S-wave. The locations where the amplitude measurements were made are marked in blue. <br>
-
+<br>
 
 <img width="247" height="100" alt="Screenshot 2025-08-20 at 3 09 05 PM" src="https://github.com/user-attachments/assets/7bb208ac-27eb-4bc9-8a18-5d6f65bf8f5e" /><br>
-Caption: P-, SH-, and SV-wave Amplitude Measurements for Marsquake S1133c.<br><br>
+Caption: Table 1. P-, SH-, and SV-wave Amplitude Measurements for Marsquake S1133c.<br><br>
 
 
 The eventual goal is to measure these amplitudes for all low-frequency or broadband marsquakes. Not all of these marsquakes have listed back azimuths, distances, or arrival times for the P- and S-waves, so many amplitudes cannot be measured. For the measurable quakes, however, the aim is to make beach ball plots such as the one shown in Figure 5.<br>
