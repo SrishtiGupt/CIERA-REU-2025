@@ -1,8 +1,3 @@
-About me
-======
-Hi! I'm Srishti and I'm a senior majoring in physics at the University of Illinois Urbana-Champaign. This summer I had the opportunity to work with Professor Suzan vanderLee on inferring strain of the lithosphere of Mars with recordings of marsquakes from the SEIS mission on the Mars InSight lander. I have many hobbies, but I especially love to do crafts like origami or making friendship bracelets
-
-
 Abstract
 ======
 We know far less about Mars’ tectonics than we do about Earth’s. Most earthquakes are caused by plate tectonics. However, Mars does not have plate tectonics. Data from the SEIS experiment on the Mars InSight mission shows that quakes, nonetheless, occur on Mars, called marsquakes. We apply a series of rotations to these data for low-frequency marsquakes taken to measure the amplitudes of the P, SV, and SH waves to infer the faulting mechanisms within the lithosphere of Mars.
