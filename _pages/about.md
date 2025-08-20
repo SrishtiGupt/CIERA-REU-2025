@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "Srishti Gupta"
+layout: archive
+title: "About"
 permalink: /
 author_profile: true
 ---
