@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Project"
+title: " Summer Research Project"
 permalink: /
 author_profile: true
 ---
