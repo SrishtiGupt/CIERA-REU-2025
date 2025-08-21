@@ -1,86 +1,42 @@
-# ───────────────────
-# Basic Site Settings
-# ───────────────────
-locale        : "en-US"
-title         : "Srishti Gupta - 4th year Undergrad at University of Illinois Urbana-Champaign"
-title_separator: "-"
-name          : &name "Srishti"
-description   : &description "hello!!"
+# --- REQUIRED BASICS ---
+title: "Srishti Gupta - 4th year Undergrad at University of Illinois Urbana-Champaign"
+description: "hello!!"
+url: "https://srishtigupt.github.io"     # your GitHub Pages domain
+baseurl: "/CIERA-REU-2025"               # your project repo path
+repository: "SrishtiGupt/CIERA-REU-2025"
 
-# Project site URL config
-url           : "https://srishtigupt.github.io"
-baseurl       : "/CIERA-REU-2025"
-repository    : "SrishtiGupt/CIERA-REU-2025"
-
-# ───────────────────
-# Theme
-# ───────────────────
-# Use Minimal Mistakes (Academic Pages base). Do NOT set `theme:`
+# --- THEME (do NOT set `theme:` anywhere) ---
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
-# ───────────────────
-# Author profile (right sidebar on layout: single)
-# ───────────────────
+# --- AUTHOR CARD ON THE RIGHT ---
 author:
-  avatar     : "profile.png"  # put this file in /images or root and adjust path if needed
-  name       : "Srishti Gupta"
-  pronouns   : "she/her"      # quoted to keep YAML valid
-  bio        : "Hi! I'm Srishti and I'm a senior majoring in physics at the University of Illinois Urbana-Champaign. This summer I had the opportunity to work with Professor Suzan vanderLee on inferring strain of the lithosphere of Mars with recordings of marsquakes from the SEIS mission on the Mars InSight lander. I have many hobbies, but I especially love to do crafts like origami or making friendship bracelets."
-  employer   : "University of Illinois Urbana-Champaign"
-  email      : "srishti8@illinois.edu"
-  github     : "SrishtiGupt"
-  linkedin   : "https://www.linkedin.com/in/srishti-gupta-18b62124b"
+  name: "Srishti Gupta"
+  pronouns: "she/her"
+  bio: "Hi! I'm Srishti and I'm a senior majoring in physics at the University of Illinois Urbana-Champaign. This summer I had the opportunity to work with Professor Suzan vanderLee on inferring strain of the lithosphere of Mars with recordings of marsquakes from the SEIS mission on the Mars InSight lander. I have many hobbies, but I especially love to do crafts like origami or making friendship bracelets."
+  employer: "University of Illinois Urbana-Champaign"
+  email: "srishti8@illinois.edu"
+  github: "SrishtiGupt"
+  linkedin: "https://www.linkedin.com/in/srishti-gupta-18b62124b"
+  avatar: "/images/profile.png"          # optional; adjust path or remove
 
-# ───────────────────
-# Site Settings
-# ───────────────────
-breadcrumbs       : false
-words_per_minute  : 160
-future            : true
-read_more         : "disabled"
+# --- BUILD SETTINGS ---
+markdown: kramdown
+highlighter: rouge
 
-# ───────────────────
-# Feeds / SEO (fill in later if you want)
-# ───────────────────
-atom_feed:
-  hide: false
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
 
-# ───────────────────
-# Build includes/excludes
-# ───────────────────
 include:
   - _pages
-  - files
-exclude:
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - node_modules
-  - vendor
-  - Dockerfile
-  - Gemfile
-  - package.json*
-  - README
-  - LICENSE
-  - tmp
 
-encoding     : "utf-8"
-markdown_ext : "markdown,mkdown,mkdn,mkd,md"
-
-# ───────────────────
-# Conversion / Markdown
-# ───────────────────
-markdown        : kramdown
-highlighter     : rouge
-lsi             : false
-excerpt_separator: "\n\n"
-incremental     : false
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote
+# Make all normal pages use the "single" layout and show the author card
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
