@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Project"
 permalink: /
 author_profile: true
 ---
