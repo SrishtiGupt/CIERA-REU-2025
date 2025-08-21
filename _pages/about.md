@@ -1,13 +1,13 @@
 ---
 layout: single
-title: " Summer Research Project"
+title: "Research"
 permalink: /
 author_profile: true
 ---
 
 Abstract
-======
-We know far less about Mars’ tectonics than we do about Earth’s. Most earthquakes are caused by plate tectonics. However, Mars does not have plate tectonics. Data from the SEIS experiment on the Mars InSight mission shows that quakes, nonetheless, occur on Mars, called marsquakes. We apply a series of rotations to these data for low-frequency marsquakes taken to measure the amplitudes of the P, SV, and SH waves to infer the faulting mechanisms within the lithosphere of Mars.
+------
+We know far less about Mars’ tectonics than we do about Earth’s. Most earthquakes are caused by plate tectonics. However, Mars does not have plate tectonics. Data from the SEIS experiment on the Mars InSight mission shows that quakes, nonetheless, occur on Mars, called marsquakes. We apply a series of rotations to these data for low-frequency marsquakes taken to measure the amplitudes of the P, SV, and SH waves to infer the faulting mechanisms within the lithosphere of Mars.<br><br>
 
 Background
 ------
